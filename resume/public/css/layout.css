@@ -99,10 +99,10 @@ header .social li a:hover { color: #11ABB0; }
 
 header .profile-pic {
    position: relative;
-   width: 250px;
-   height: 250px;
+   width: 30vh;
+   height: 30vh;
    border-radius: 100%;
-   margin-top:5%;
+   margin-top:2vh;
 }
 
 /* scrolldown link */

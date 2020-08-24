@@ -12,8 +12,8 @@
       "city":"Tel Aviv",
       "state":"Israel"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/file/d/1jqHyWf1KMQM_HespA6QH8l-Nw0qdQzC8/export?format=pdf",
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1jqHyWf1KMQM_HespA6QH8l-Nw0qdQzC8/view",
     "social":[
       {
         "name":"facebook",
@@ -122,7 +122,7 @@
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"cv.png",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://5f3aa1e6ad43c4fd4ea78f75--gils-cv.netlify.app/"
       }
     ]
   }
