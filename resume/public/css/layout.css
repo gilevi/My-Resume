@@ -105,6 +105,17 @@ header .profile-pic {
    margin-top:2vh;
 }
 
+@media only screen and (max-width: 400px) {
+header .profile-pic {
+   position: relative;
+   width: 30vh;
+   height: 30vh;
+   border-radius: 100%;
+   margin-top:2vh;
+   transform: rotate(90deg);
+}
+}
+
 /* scrolldown link */
 header .scrolldown a {
    position: absolute;
